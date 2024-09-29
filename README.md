@@ -1,4 +1,7 @@
-# Portfolio copyright Paul Guttin - Shinka 
+# Portfolio 
 
-Vive la Kcorp
+Vite JS & Vercel project
+Freelance website
+
+Copyright to Shinka - Paul Guttin
 
