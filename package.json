@@ -4,14 +4,13 @@
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "start": "vite",
-    "dev": "vite",
-    "build": "tsc && vite build",
-    "preview": "vite preview"
+    "start": "bun vite",
+    "dev": "bun vite",
+    "build": "bun vite build",
+    "preview": "bun vite preview"
   },
   "devDependencies": {
     "sass": "^1.62.0",
-    "typescript": "^4.9.3",
     "vite": "^4.2.0"
   }
 }
